@@ -1,4 +1,4 @@
-package SWEA.CB_01_SWEA_새로운_불면증_치료법;
+// package CB_01_SWEA_새로운_불면증_치료법;
 
 import java.util.Scanner;
 import java.io.FileInputStream;
@@ -18,7 +18,8 @@ class Solution {
 		   따라서 테스트를 수행할 때에는 아래 주석을 지우고 이 메소드를 사용하셔도 좋습니다.
 		   단, 채점을 위해 코드를 제출하실 때에는 반드시 이 메소드를 지우거나 주석 처리 하셔야 합니다.
 		 */
-		System.setIn(new FileInputStream("res/input.txt"));
+		// System.setIn(new FileInputStream("C:/Users/SSAFY/Documents/GitHub/Java/SWEA/CB_01_SWEA_새로운_불면증_치료법/res/input.txt"));
+		System.setIn(new FileInputStream("CB_01_SWEA_새로운_불면증_치료법/res/input.txt"));
 
 		/*
 		   표준입력 System.in 으로부터 스캐너를 만들어 데이터를 읽어옵니다.

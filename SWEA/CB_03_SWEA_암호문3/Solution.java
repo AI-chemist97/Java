@@ -41,7 +41,7 @@ class Solution
 	{
         BufferedReader br = new BufferedReader(new InputStreamReader((System.in)));
 		String input = br.readLine();
-        int N = Integer.parseInt(input);
+        // int N = Integer.parseInt(input);
         int N = Integer.parseInt(br.readLine());
         // Scanner sc = new Scanner(System.in);
 		int T = 10;
